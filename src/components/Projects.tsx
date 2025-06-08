@@ -16,7 +16,7 @@ const Projects = () => {
     {
       title: "AI-Powered Code Reviewer",
       description: "An AI-powered code reviewer that enhances code quality, consistency, and security through intelligent analysis and real-time feedback.",
-      image: "src/assets/brave_screenshot_ai-powered-code-reviewer-rust.vercel.app.png",
+      image: "public/brave_screenshot_ai-powered-code-reviewer-rust.vercel.app.png",
       technologies: ["React", "Node.js", "Express.js", "Gemini API"],
       github: "https://github.com/Vaibhavlakhatariya07/AI-Powered-Code-Reviewer.git",
       live: "https://ai-powered-code-reviewer-kohl.vercel.app/",
@@ -25,7 +25,7 @@ const Projects = () => {
     {
       title: "E-learning platform ",
       description: "A responsive weather dashboard that provides current weather conditions, forecasts, and weather maps using external APIs.",
-      image: "src/assets/Coursera.7b2b1bf37cad31aa5c79.webp",
+      image: "public/Coursera.7b2b1bf37cad31aa5c79.webp",
       technologies: ["React", "Tailwind CSS", "Node.js", "mongodb"],
       github: "https://github.com/Vaibhavlakhatariya07/E-learning-platform.git",
       // live: "",
@@ -34,7 +34,7 @@ const Projects = () => {
     {
       title: "Portfolio Website",
       description: "A modern, responsive portfolio website built with React and Tailwind CSS. Features smooth animations and dark mode support.",
-      image: "src/assets/brave_screenshot_localhost.png",
+      image: "public/brave_screenshot_localhost.pngg",
       technologies: ["React", "Tailwind CSS",],
       github: "https://github.com/Vaibhavlakhatariya07/Portfolio.git",
       gradient: "from-emerald-500 to-green-600"
